@@ -1,0 +1,72 @@
+body {
+    height: 100%;
+    background-color: #f0f0f0;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 5%;
+}
+
+.logo {
+    width: 20%;
+    height: 20%;
+}
+form {
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+section {
+    background-color: #ffff;
+    padding: 2%;
+    margin: 3% 10%;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.4);
+    color: #5e2127;
+}
+form label {
+    justify-content: flex-start;
+}
+
+.campo {
+    width: 60%;
+    border-radius: 20px;
+    border: solid 2px #dddddd;
+    box-shadow: 1px 1px 5px rgba(131, 127, 127, 0.4);
+    padding: 1%;
+    margin: 2%;
+}
+
+.cadastrar {
+    display:block;
+    margin: 3% auto;
+    width: 200px;
+    height: 30px;
+    background-color: #5e2127;
+    letter-spacing: 2px;
+    font-size:medium;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    border-radius: 20px;
+    border: 2px outset #360d11;
+}
+
+.voltar {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    width: 150px;
+    height: 30px;
+    background-color: #f1f1f1;
+    letter-spacing: 2px;
+    font-size:medium;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(94, 27, 27);
+    border: 2px outset rgb(187, 187, 184);
+    border-radius: 20px;
+}
