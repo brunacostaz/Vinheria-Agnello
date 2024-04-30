@@ -12,11 +12,9 @@ E a página de cadastro (para acessá-la, basta clicar no ícone de perfil, que 
 
 O nosso projeto contém imagens, tabela, formulário, hyperlinks, listas, transformações, transições e animações. Incorporamos a estilização com CSS e desenvolvemos com HTML Semântico, fundamento muito importante para a organização do código.
 
-
 ## Stack utilizada
 
 **Front-end:** HTML e CSS
-
 
 
 ## Suporte
@@ -73,7 +71,7 @@ Visualizar o projeto no navegador usando Live Server
 
 Essa é a versão atualizada do nosso site, que está totalmente conectado entre si (diferentemente da versão anterior) e com mais estilização e coerência. Reforçamos e aprofundamos nossos conhecimentos em HTML e CSS, fundamentais para a construção de qualquer site, e implementamos animações, transformações, o uso correto do display e suas propriedades, pseudo-elementos e entre outras funcionalidades. 
 
-Nessa versão, todos os botões levam o usuário para algum destino; as páginas "Sobre" e "Lojas" possuem transformações ao passar o mouse por cima e a página "VInhos" possui animações finitas e iniciais ao acessá-la. 
+Nessa versão, todos os botões levam o usuário para algum destino; as páginas "Sobre" e "Lojas" possuem transformações ao passar o mouse por cima e a página "Vinhos" possui animações finitas e iniciais ao acessá-la. 
 
 
 ## Autores
