@@ -1,5 +1,5 @@
 
-# Check-Point Front-End
+# Vinheria Agnello
 
 Este é um projeto de checkpoint da disciplina de Front-End. Desenvolvemos um site para a vinheria Agnello que contém seis páginas/arquivos em html e css:
 
